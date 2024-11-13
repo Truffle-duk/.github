@@ -1,15 +1,14 @@
 # Pumble
 > 블록체인 기반 공금 관리 커뮤니티 어플리케이션 서비스
 <img width="1024" alt="pumble_poster" src="https://github.com/user-attachments/assets/f0710e0c-3bfc-4b2c-a851-45a471170035"/>
-<!--
+
 <div align="center">
 
-  [![Notion](https://img.shields.io/badge/Pumble_Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff)](https://www.naver.com) &nbsp;&nbsp;&nbsp;&nbsp;
-  [![PDF](https://img.shields.io/badge/Pumble_Slide-000000?style=for-the-badge&logo=Files&logoColor=ffffff)](https://www.naver.com) &nbsp;&nbsp;&nbsp;&nbsp;
-  [![Video](https://img.shields.io/badge/Pumble_Video-000000?style=for-the-badge)](https://www.naver.com)
+  [![Notion](https://img.shields.io/badge/Pumble_Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff)](https://www.notion.so/jay-de/Pumble-fefad36d99204f628633aed45463c1b6?pvs=4) &nbsp;&nbsp;&nbsp;&nbsp;
+  [![PDF](https://img.shields.io/badge/Pumble_Slide-000000?style=for-the-badge&logo=Files&logoColor=ffffff)](https://github.com/Truffle-duk/.github/blob/main/profile/Pumble.pdf) &nbsp;&nbsp;&nbsp;&nbsp;
+  <!--[![Video](https://img.shields.io/badge/Pumble_Video-000000?style=for-the-badge)](https://www.naver.com)-->
   
 </div>
--->
 
 <br/>
 
@@ -38,6 +37,7 @@
 [![Text](https://img.shields.io/badge/Application:-ffffff?style=for-the-badge)]()
 [![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=Node.js&logoColor=5FA04E)]()
 [![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1)]()
+[![Nginx](https://img.shields.io/badge/Nginx-ffffff?style=for-the-badge&logo=nginx&logoColor=009639)]()
 [![Redis](https://img.shields.io/badge/Redis-ffffff?style=for-the-badge&logo=redis&logoColor=FF4438)]()
 [![AWS S3](https://img.shields.io/badge/Amazon_S3-ffffff?style=for-the-badge&logo=amazons3&logoColor=569A31)]()
 [![JWT](https://img.shields.io/badge/JWT-ffffff?style=for-the-badge&logo=jsonwebtokens&logoColor=000000)]()
