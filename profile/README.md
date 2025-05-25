@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  [![Notion](https://img.shields.io/badge/Pumble_Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff)](https://www.notion.so/jay-de/Pumble-fefad36d99204f628633aed45463c1b6?pvs=4) &nbsp;&nbsp;&nbsp;&nbsp;
+  [![Notion](https://img.shields.io/badge/Pumble_Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff)](https://jay-de.notion.site/Pumble-fefad36d99204f628633aed45463c1b6?pvs=4) &nbsp;&nbsp;&nbsp;&nbsp;
   [![PDF](https://img.shields.io/badge/Pumble_Slide-000000?style=for-the-badge&logo=Files&logoColor=ffffff)](https://github.com/Truffle-duk/.github/blob/main/profile/Pumble.pdf) &nbsp;&nbsp;&nbsp;&nbsp;
   <!--[![Video](https://img.shields.io/badge/Pumble_Video-000000?style=for-the-badge)](https://www.naver.com)-->
   
